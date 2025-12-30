@@ -1,0 +1,23 @@
+Library Name: The Mind Maze
+Study Hub Details:
+Book 1: Data Structures
+Book 2: Operating Systems
+Total books: 2
+======== Add Book ========
+Library Name: The Mind Maze
+Adding book: Data Structures
+Book 1 Removed from Study Hub
+Book added successfully!
+Focus Room Details:
+Book 1: Data Structures
+No book added
+Total books: 1
+======== Add Book Again ========
+Library Name: The Mind Maze
+Adding book: Operating Systems
+Book 2 Removed from Study Hub
+Book added successfully!
+Focus Room Details:
+Book 1: Data Structures
+Book 2: Operating Systems
+Total books: 0
