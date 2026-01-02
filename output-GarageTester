@@ -1,0 +1,26 @@
+Welcome to the Garage!
+Car Capacity: 2
+Bike Capacity: 3
+==========0===========
+==========1===========
+Car Brand: Ford, Year: 2022, Wheels: 4, Model: Mustang, Doors: 2, AI: false
+==========2===========
+A Ford CAR has been added to the Garage
+A Tesla CAR has been added to the Garage
+Can't add more Cars! Capacity: 2
+Car Brand: Tesla, Year: 2025, Wheels: 4, Model: Model S, Doors: 4, AI: true
+==========3===========
+Ford:Mustang has NO AutoPilot
+Tesla:Model S AutoPilot Started
+==========4===========
+Bike Brand: Honda, Year: 2022, Wheels: 3, Model: Gold Wing, SideCar: true
+A Honda BIKE has been added to the Garage
+==========5===========
+A Royal Enfield BIKE has been added to the Garage
+Bike Brand: Royal Enfield, Year: 2021, Wheels: 2, Model: Classic 350, SideCar: false
+==========6===========
+A Harley-Davidson BIKE has been added to the Garage
+Can't add more bikes! Capacity: 3
+=========7============
+Wheelie Failed. Honda:Gold Wing has SideCar
+Royal Enfield:Classic 350 is doing Wheelie!!
